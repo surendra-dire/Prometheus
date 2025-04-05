@@ -1,3 +1,6 @@
+Prometheus, a Cloud Native Computing Foundation project, is a monitoring system that gathers metrics from targets, evaluates rules, shows results, and triggers alerts when conditions are met.
+
+
 # Installing as a binary
 - Download prometheus here [Prometheus Download Page](https://prometheus.io/download/#prometheus)
 - Extract
